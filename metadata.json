@@ -1,0 +1,6 @@
+{
+  "name": "AI Arena",
+  "description": "Full-stack AI model comparison workbench for evaluating prompts, response latency, and token efficiency side-by-side with genuine provider integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
