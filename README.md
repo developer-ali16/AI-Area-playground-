@@ -1,19 +1,4 @@
-
-
-https://github.com/user-attachments/assets/1fc3d885-5d2d-4f34-8081-062fe26748d3
-
-
-
-
-
-
-
-
-
-
-
-
-
+watch and enjoy https://drive.google.com/file/d/1Nz39Y6sH0IVfYuEYwge0kvpOlbJainhe/view?usp=sharing
 
 # AI Arena
 
