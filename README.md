@@ -1,3 +1,20 @@
+
+
+https://github.com/user-attachments/assets/1fc3d885-5d2d-4f34-8081-062fe26748d3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # AI Arena
 
 AI Arena is a full-stack web application designed for evaluating and benchmarking AI model responses side-by-side. Users enter a prompt and compare answers from selected AI models concurrently, tracking real latency, response tokens, and speed (tokens/sec).
